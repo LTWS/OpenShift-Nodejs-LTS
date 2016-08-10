@@ -22,7 +22,7 @@ Provides:
 
 Scaling:
   Min: 1
-  Max: -1
+  Max: 1
 
 Publishes:
   get-doc-root:
