@@ -1,6 +1,6 @@
 Name: nodejs
 Description: Custom Node.js cartridge auto-updating to the latest stable version on each build.
-Version: '6.3.1'
+Version: '4.4.7'
 License: Node.js License
 License-Url: https://raw.githubusercontent.com/nodejs/node/master/LICENSE
 Vendor: www.nodejs.org
