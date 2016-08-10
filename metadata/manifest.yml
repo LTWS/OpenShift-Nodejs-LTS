@@ -5,10 +5,10 @@ License: Node.js License
 License-Url: https://raw.githubusercontent.com/nodejs/node/master/LICENSE
 Vendor: www.nodejs.org
 Website: http://www.nodejs.org/
-Display-Name: Node.js Auto-Updating
+Display-Name: Node.js LTS
 Cartridge-Short-Name: NODEJS
 Cartridge-Version: '2.3.2'
-Cartridge-Vendor: ltws
+Cartridge-Vendor: 'ltws'
 Source-Url: https://github.com/LTWS/OpenShift-Nodejs-LTS.git
 Categories:
 - service
@@ -22,7 +22,7 @@ Provides:
 
 Scaling:
   Min: 1
-  Max: 1
+  Max: -1
 
 Publishes:
   get-doc-root:
