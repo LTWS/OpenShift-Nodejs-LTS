@@ -8,7 +8,7 @@ Website: http://www.nodejs.org/
 Display-Name: Node.js LTS
 Cartridge-Short-Name: NODEJS
 Cartridge-Version: '2.3.2'
-Cartridge-Vendor: 'ltws'
+Cartridge-Vendor: ltws
 Source-Url: https://github.com/LTWS/OpenShift-Nodejs-LTS.git
 Categories:
 - service
