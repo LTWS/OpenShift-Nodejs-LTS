@@ -8,8 +8,8 @@ Website: http://www.nodejs.org/
 Display-Name: Node.js Auto-Updating
 Cartridge-Short-Name: NODEJS
 Cartridge-Version: '2.3.2'
-Cartridge-Vendor: icflorescu
-Source-Url: https://github.com/icflorescu/openshift-cartridge-nodejs.git
+Cartridge-Vendor: LTWS
+Source-Url: https://github.com/LTWS/OpenShift-Nodejs-LTS.git
 Categories:
 - service
 - javascript
@@ -22,7 +22,7 @@ Provides:
 
 Scaling:
   Min: 1
-  Max: 1
+  Max: -1
 
 Publishes:
   get-doc-root:
